@@ -1,0 +1,11 @@
+{
+	"port": 8080,
+
+	"dbConnSettings": {
+		"connectionLimit": 100,
+		"host"		: "192.168.184.129",
+		"user"		: "game",
+		"password": "game",
+		"database": "test"
+	}
+}
